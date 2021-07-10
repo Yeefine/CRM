@@ -45,7 +45,7 @@
 
   + 交易详细信息页
 
-    ![](https://raw.githubusercontent.com/Yeefine/picBed/master/20210710213924.png)
+    ![](https://raw.githubusercontent.com/Yeefine/picBed/master/20210710220849.jpg)
 
   + 交易统计图表页
 
